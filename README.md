@@ -1,6 +1,6 @@
 # ToDo-App
 
-Die ToDo-App ist ein einfaches, aber effektives Tool zur Verwaltung Ihrer Aufgaben. Sie wurde mit Angular CLI Version 16.2.4 erstellt.
+Die ToDo-App ist ein einfaches, aber effektives Tool zur Verwaltung Ihrer Aufgaben.
 
 ## Features
 
