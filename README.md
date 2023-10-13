@@ -1,27 +1,30 @@
-# TodoApp
+# ToDo-App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.4.
+Die ToDo-App ist ein einfaches, aber effektives Tool zur Verwaltung Ihrer Aufgaben. Sie wurde mit Angular CLI Version 16.2.4 erstellt.
 
-## Development server
+## Features
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Die App bietet eine Vielzahl von Funktionen zur Aufgabenverwaltung:
 
-## Code scaffolding
+- **Aufgaben erstellen:** Fügen Sie neue Aufgaben hinzu, um Ihre To-Do-Liste zu organisieren.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Aufgaben bearbeiten:** Ändern Sie den Titel oder die Beschreibung Ihrer bestehenden Aufgaben nach Bedarf.
 
-## Build
+- **Status ändern:** Markieren Sie Aufgaben als abgeschlossen oder nicht abgeschlossen, um Ihren Fortschritt im Auge zu behalten.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- **Aufgaben löschen:** Entfernen Sie Aufgaben, die erledigt sind oder nicht mehr benötigt werden.
 
-## Running unit tests
+- **Suche nach Aufgaben:** Nutzen Sie die Suchfunktion, um schnell nach bestimmten Aufgaben zu suchen.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- **Filtern nach Status:** Filtern Sie Aufgaben nach ihrem Status, um diejenigen anzuzeigen, die noch erledigt werden müssen oder bereits abgeschlossen sind.
 
-## Running end-to-end tests
+## App starten
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Um die ToDo-App auszuführen, befolgen Sie diese Schritte:
 
-## Further help
+1. Stellen Sie sicher, dass [Node.js](https://nodejs.org/) auf Ihrem Computer installiert ist.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+2. Öffnen Sie ein Terminalfenster und navigieren Sie zum Projektverzeichnis.
+
+3. Installieren Sie die erforderlichen Abhängigkeiten, indem Sie den folgenden Befehl ausführen:
+
