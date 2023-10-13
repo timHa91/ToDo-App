@@ -26,5 +26,14 @@ Um die ToDo-App auszuführen, befolgen Sie diese Schritte:
 
 2. Öffnen Sie ein Terminalfenster und navigieren Sie zum Projektverzeichnis.
 
-3. Installieren Sie die erforderlichen Abhängigkeiten, indem Sie den folgenden Befehl ausführen:
+3. Installieren Sie die erforderlichen Abhängigkeiten, indem Sie den folgenden Befehl ausführen: npm install
+
+4. Starten Sie die App mit dem folgenden Befehl: ng serve
+   
+5. Öffnen Sie einen Webbrowser und besuchen Sie [http://localhost:4200/](http://localhost:4200/) in Ihrer Adressleiste, um auf die ToDo-App zuzugreifen.
+
+Jetzt sollte die ToDo-App erfolgreich gestartet sein, und Sie können mit der Verwaltung Ihrer Aufgaben beginnen!
+
+Viel Spaß beim Verwenden der ToDo-App!
+
 
